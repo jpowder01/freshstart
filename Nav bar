@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Room Essentials</title>
+    <link rel="icon" href="logo.png">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <header class="header">
+        <a href="#" class="logo">KD's Crafted Apparel</a>
+
+        <nav class="navbar">
+            <a href="#">Home</a>
+            <a href="#">Products</a>
+            <a href="#">Contact</a>
+            <a href="#">About us</a>
+        </nav>
+
+        <button class="btn">Like Page!</button>
+
+    </header>
+
+
+</body>
+
+</html>
